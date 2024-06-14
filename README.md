@@ -16,5 +16,5 @@ Run the notebook.
 An excelfile is created in the same directory as the WID-file, with the same name plus extension .xlsx
 Tested with Business Objects 4.3 \ Jupyter Lab \ Python 3.12.1
 
-Disclaimer: This code is still in beta, use it at your own risk.
+Use this code at your own risk.
 
