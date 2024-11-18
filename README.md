@@ -11,7 +11,7 @@ You might need to install some Python libraries to get the code running.
 To process the WID file:
 
 Open the notebook 'exportReportStatusToExcel.ipynb'.
-Enter the right pathname and wid file name in the first cells.
+Enter the pathname and wid file name in the first cells.
 Run the notebook.
 An excelfile is created in the same directory as the WID-file, with the same name plus extension .xlsx
 Tested with Business Objects 4.3 \ Jupyter Lab \ Python 3.12.1
