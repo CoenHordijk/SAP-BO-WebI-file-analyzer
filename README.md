@@ -1,4 +1,4 @@
-Coen Hordijk 202404531
+Coen Hordijk 20240531
 
 Here is some Python code to analyse SAP Business Objects WebI Report (.wid) files.
 
